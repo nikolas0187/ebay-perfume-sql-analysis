@@ -51,5 +51,5 @@ A través de un análisis de diagnóstico con diagramas de caja (*Boxplots*), se
 ## 📂 Estructura del Repositorio
 * `perfume_project.sql`: Script único estructurado de extremo a extremo. Contiene la creación de tablas, importación mediante `COPY` y las consultas analíticas.
 * `3_eda_perfumes.py`: Script de Python enfocado en la unificación de archivos, auditoría de nulos/duplicados, limpieza avanzada y generación de gráficos estadísticos.
-* `Densidad_precios_limpio.csv`: Dataset final unificado, sanitizado y listo para ser explotado en herramientas de Business Intelligence.
+* `ebay_perfumes_global_limpio.csv`: Dataset final unificado, sanitizado y listo para ser explotado en herramientas de Business Intelligence.
 * `*.png`: Gráficos exportados para la documentación del proyecto.
