@@ -44,7 +44,7 @@ A través de un análisis de diagnóstico con diagramas de caja (*Boxplots*), se
 
 | Distribución Global (Con Outliers) | Densidad del Mercado Masivo (<$150) |
 |:---:|:---:|
-| ![Distribución de Precios](distribucion_precios.png) | ![Densidad del Mercado Masivo](densidad_precios_limpio.png) |
+| ![Distribución de Precios](distribucion_precios.png) | ![Densidad del Mercado Masivo](Densidad_precios_limpio.png) |
 
 ---
 
