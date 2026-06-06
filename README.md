@@ -58,4 +58,4 @@ Diseño e implementación de un dashboard ejecutivo interactivo orientado a la t
 * `perfume_project.sql`: Script único estructurado de extremo a extremo. Contiene la creación de tablas, importación mediante `COPY` y las consultas analíticas.
 * `3_eda_perfumes.py`: Script de Python enfocado en la unificación de archivos, auditoría de nulos/duplicados, limpieza avanzada y generación de gráficos estadísticos.
 * `ebay_perfumes_global_limpio.csv`: Dataset final unificado, sanitizado y listo para ser explotado en herramientas de BI.
-* `*.png`: Gráficos estadísticos y captura del Dashboard ejecutivo para documentación.
+* `Dashboard.png, Densidad_precios_limpio.png, distribucion_precios.png`: Gráficos estadísticos y captura del Dashboard ejecutivo para documentación.
